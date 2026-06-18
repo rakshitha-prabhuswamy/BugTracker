@@ -153,15 +153,5 @@ The complete project report is available here:
 
 ---
 
-## Future Enhancements
 
-* Email notifications
-* Password encryption
-* Bug priority analytics
-* Report generation
-* File attachments
-* Role-based access enhancements
-* Dashboard charts and visualizations
-
----
 
